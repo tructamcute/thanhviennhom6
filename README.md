@@ -61,6 +61,7 @@
             color: #007BFF;
         }
     </style>
+    <link rel="stylesheet" href="1.css">
 </head>
 <body>
     <a>Thành Viên Nhóm</a>
