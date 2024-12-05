@@ -15,6 +15,9 @@
             justify-content: center;
             min-height: 100vh;
         }
+        b {
+            font-size: 5px;
+        }
         h1 {
             margin-top: 20px;
             color: #333;
@@ -47,7 +50,7 @@
             margin-bottom: 10px;
         }
         .member h3 {
-            margin: 10px 0 5px;
+            margin: 10px 0 10px;
             font-size: 18px;
             color: #007BFF;
         }
@@ -91,6 +94,6 @@
             <a href="https://tructamcute.github.io/ProfileTrungNguyen/" target="_blank">Giới thiệu học sinh</a>
         </div>
     </div>
-    <b href="https://tructamcute.github.io/nhom6_12L/" , font-size:5px>Quay lại Trang Chủ</b>
+    <b href="https://tructamcute.github.io/nhom6_12L/">Quay lại Trang Chủ</b>
 </body>
 </html>
