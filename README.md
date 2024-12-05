@@ -57,7 +57,7 @@
         .member a {
             text-decoration: none;
             color: #555;
-            font-size: 14px;
+            font-size: 12px;
         }
         .member a:hover {
             color: #007BFF;
@@ -93,7 +93,7 @@
             <h3>Trần Trung Nguyên</h3>
             <a href="https://tructamcute.github.io/ProfileTrungNguyen/" target="_blank">Giới thiệu học sinh</a>
         </div>
-            <b href="https://tructamcute.github.io/nhom6_12L/">Quay lại Trang Chủ</b>
     </div>
+                <a href="https://tructamcute.github.io/nhom6_12L/" >Quay lại trang chủ</a>
 </body>
 </html>
