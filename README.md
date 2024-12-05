@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -92,6 +91,6 @@
             <a href="https://tructamcute.github.io/ProfileTrungNguyen/" target="_blank">Giới thiệu học sinh</a>
         </div>
     </div>
-    <a href="https://tructamcute.github.io/nhom6_12L/">Quay lại Trang Chủ</a>
+    <b href="https://tructamcute.github.io/nhom6_12L/" , font-size:5px>Quay lại Trang Chủ</b>
 </body>
 </html>
