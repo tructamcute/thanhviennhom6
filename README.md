@@ -93,7 +93,7 @@
             <h3>Trần Trung Nguyên</h3>
             <a href="https://tructamcute.github.io/ProfileTrungNguyen/" target="_blank">Giới thiệu học sinh</a>
         </div>
+            <b href="https://tructamcute.github.io/nhom6_12L/">Quay lại Trang Chủ</b>
     </div>
-    <b href="https://tructamcute.github.io/nhom6_12L/">Quay lại Trang Chủ</b>
 </body>
 </html>
