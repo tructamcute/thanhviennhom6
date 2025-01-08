@@ -4,6 +4,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Giới Thiệu Thành Viên Nhóm</title>
     <style>
+        h1 {
+            display:none;
+            }
         body {
             font-family: Arial, sans-serif;
             background-color: #f9f9f9;
